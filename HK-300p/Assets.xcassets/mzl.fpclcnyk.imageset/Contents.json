@@ -2,15 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "6374f77cce00864c95e909eb42880808.jpg",
+      "filename" : "mzl.fpclcnyk.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "mzl.fpclcnyk-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
+      "filename" : "mzl.fpclcnyk-2.png",
       "scale" : "3x"
     }
   ],

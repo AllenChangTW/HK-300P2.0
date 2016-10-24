@@ -295,6 +295,7 @@
 				97F3C0501DAE035E00DA8DE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
